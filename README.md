@@ -3,8 +3,8 @@
   <div id="badges">
     <a href="https://de.linkedin.com/in/annalena-artinger">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href="mailto:lena.artinger@googlemail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="mailto:lena.artinger@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
     <a href="https://www.instagram.com/lena.artinger/?hl=de/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </div>
@@ -15,8 +15,6 @@
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am quite new here, so please be kind and patient
-    <img src="https://media.giphy.com/media/kaCSfLdQON40oxGIkU/giphy.gif" width="30px"/>
   </h1>
   <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/> -->
 </div>
