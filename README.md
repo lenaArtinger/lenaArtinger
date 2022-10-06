@@ -1,3 +1,5 @@
+[![@lenaartinger's Holopin board](https://holopin.io/api/user/board?user=lenaartinger)](https://holopin.io/@lenaartinger)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
   <div id="badges">
@@ -17,8 +19,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
-[![@lenaartinger's Holopin board](https://holopin.io/api/user/board?user=lenaartinger)](https://holopin.io/@lenaartinger)
 
 ### :woman_technologist: <span style="color:red">About Me</span> :
 
@@ -63,5 +63,6 @@ I am a female software developer :computer: from Germany :de:.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenaArtinger&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenaArtinger&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenaArtinger&show_icons=true&theme=nightowl&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lena's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenaArtinger&theme=nightowl&hide_border=true&show_icons=true)](https://git.io/streak-stats)
+[![Lena's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenaArtinger&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
